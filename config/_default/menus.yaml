@@ -1,0 +1,31 @@
+leftnav:
+- identifier: 6128134b-d7c3-06db-edb9-57f4302764e3
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: d8f30571-4bef-ed2d-0031-fd7278b05148
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 1f575592-b202-5725-0c1c-9ae29daa4da8
+  name: Readings
+  url: /pages/readings
+  weight: 30
+- identifier: 7a3a176b-402d-fa1e-a9e7-96b1449c9a03
+  name: Assignments
+  url: /pages/assignments/
+  weight: 40
+- identifier: 6341ad14-3c14-b014-3554-40c9f00011e9
+  name: Presentation Resources
+  parent: 7a3a176b-402d-fa1e-a9e7-96b1449c9a03
+  url: /pages/assignments/presentation-resources
+  weight: 50
+- identifier: f2326e6f-d4d6-4121-9c7b-1deaa5cb51d6
+  name: Response Questions
+  parent: 7a3a176b-402d-fa1e-a9e7-96b1449c9a03
+  url: /pages/assignments/weekly-response-questions
+  weight: 60
+- identifier: ba071989-4285-97e4-86ee-aa6d8cf96975
+  name: Study Materials
+  url: /pages/study-materials
+  weight: 70
